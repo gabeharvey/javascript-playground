@@ -45,4 +45,12 @@ h1 {
 
 .ending {
     font-family: 'Dancing Script';
+    width: 98vw;
+    height: 10vh;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background: linear-gradient(to right, lightyellow, gold);
+    border-radius: 10px;
+    padding: 5px;
 }
