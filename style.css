@@ -4,8 +4,10 @@ h1 {
 }
 
 .heading {
-    color: orange;
+    color: coral;
     height: 200px;
     width: 500px;
     background: linear-gradient(to bottom, cyan, royalblue);
+    font-family: 'Dancing Script';
+    font-weight: bold;
 }
