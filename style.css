@@ -7,5 +7,5 @@ h1 {
     color: orange;
     height: 200px;
     width: 500px;
-    background-color: cyan;
+    background: linear-gradient(to bottom, cyan, royalblue);
 }
