@@ -1,27 +1,29 @@
 h1 {
-    background-color: silver;
+    background: linear-gradient(to right, beige, silver);
     height: 10vh;
     width: 98vw;
-    color: white;
+    color: black;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: left;
     font-size: 24px;
     border-radius: 10px;
+    padding: 5px;
 }
 
 .heading {
     color: coral;
     height: 20vh;
     width: 98vw;
-    background: linear-gradient(to bottom, cyan, royalblue);
+    background: linear-gradient(to right, cyan, royalblue);
     font-family: 'Dancing Script', cursive;
     font-weight: 700;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: left;
     font-size: 24px;
     border-radius: 20px;
+    padding: 5px;
 }
 
 #henry {
@@ -35,7 +37,8 @@ h1 {
     height: 80vh;
     display: flex;
     align-items: center;
-    justify-content: center;
-    background: linear-gradient(to bottom, lightgreen, lawngreen);
+    justify-content: left;
+    background: linear-gradient(to right, lightyellow, yellow);
     border-radius: 20px;
+    padding: 5px;
 }
