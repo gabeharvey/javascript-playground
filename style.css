@@ -25,7 +25,17 @@ h1 {
 }
 
 #henry {
-    max-height: 500px;
-    max-width: 500px;
+    max-height: 400px;
+    max-width: 400px;
+    border-radius: 20px;
+}
+
+#photoBack {
+    width: 98vw;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to bottom, lightgreen, lawngreen);
     border-radius: 20px;
 }
