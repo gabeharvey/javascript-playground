@@ -19,3 +19,19 @@ for (let i=0; i < family.length; i++) {
 for (let i=2; i < family.length; i++) {
     console.log(family[i] + ' is in the Harvey Family too!')
 }
+
+let cat = {
+    name: 'Blackberry',
+    age: 2,
+    gender: 'male'
+}
+
+console.log(cat);
+
+cat = {
+    name: 'Frost',
+    age: 2,
+    gender: 'male'
+}
+
+console.log(cat);
