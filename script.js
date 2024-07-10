@@ -23,7 +23,8 @@ for (let i=2; i < family.length; i++) {
 let cat = {
     name: 'Blackberry',
     age: 2,
-    gender: 'male'
+    gender: 'male',
+    isHome: false,
 }
 
 console.log(cat);
@@ -31,7 +32,14 @@ console.log(cat);
 cat = {
     name: 'Frost',
     age: 2,
-    gender: 'male'
+    gender: 'male',
+    isHome: false,
 }
 
 console.log(cat);
+
+if (cat.isHome) {
+    console.log( cat.name + ' is home!');
+} else {
+    console.log( cat.name + ' is not home!');
+}
