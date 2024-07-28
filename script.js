@@ -43,3 +43,9 @@ if (cat.isHome) {
 } else {
     console.log( cat.name + ' is not home!');
 }
+
+const games = [ 'World of Warcraft', 'Mario Kart', 'Zelda'];
+console.log(games[1]);
+for (let i=0; i < games.length; i++) {
+    console.log(games[i] + ' is my favorite game!')
+}
