@@ -54,3 +54,8 @@ h1 {
     border-radius: 10px;
     padding: 5px;
 }
+
+.section-1 {
+    background-color: black;
+    color: aquamarine;
+}
