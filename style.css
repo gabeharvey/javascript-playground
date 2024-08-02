@@ -57,6 +57,7 @@ h1 {
 
 .aside-1 {
     background: linear-gradient(to right, lawngreen, green);
+    border-radius: 10px;
 }
 
 .section-1 {
