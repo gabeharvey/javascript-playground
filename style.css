@@ -55,6 +55,10 @@ h1 {
     padding: 5px;
 }
 
+.aside-1 {
+    background: linear-gradient(to right, lawngreen, green);
+}
+
 .section-1 {
     background-color: black;
     color: aquamarine;
